@@ -1,3 +1,3 @@
 # FirstProject
 This is my first project 
-Author -Nur e nahian shanto
+Author -Nur e nahin
